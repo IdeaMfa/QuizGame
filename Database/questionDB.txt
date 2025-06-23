@@ -1,0 +1,59 @@
+###1 What is the capital of France?
+Berlin_Rome_Paris_Madrid_##2
+
+###2 Which planet is known as the Red Planet?
+Earth_Mars_Jupiter_Venus_##1
+
+###3 Who wrote Romeo and Juliet?
+Charles Dickens_William Shakespeare_Mark Twain_Jane Austen_##1
+
+###4 Which element has the chemical symbol ‘O’?
+Oxygen_Gold_Osmium_Zinc_##0
+
+###5 How many continents are there?
+5_6_7_8_##2
+
+###6 What is the square root of 144?
+10_11_12_13_##2
+
+###7 What is H2O commonly known as?
+Oxygen_Salt_Water_Hydrogen_##2
+
+###8 What is 7 × 8?
+54_56_64_72_##1
+
+###9 Which gas do plants absorb?
+Oxygen_Nitrogen_Hydrogen_Carbon dioxide_##3
+
+###10 What is the boiling point of water at sea level (in °C)?
+90_95_100_110_##2
+
+###11 Which country has the largest population?
+USA_India_China_Russia_##2
+
+###12 In what year did World War II end?
+1940_1945_1950_1939_##1
+
+###13 Which ocean is the largest?
+Atlantic_Indian_Arctic_Pacific_##3
+
+###14 What is the capital of Japan?
+Kyoto_Tokyo_Osaka_Hiroshima_##1
+
+###15 The pyramids are located in which country?
+Morocco_Iran_Egypt_Iraq_##2
+
+###16 Which artist painted the Mona Lisa?
+Vincent van Gogh_Pablo Picasso_Leonardo da Vinci_Michelangelo_##2
+
+###17 Which instrument has 88 keys?
+Guitar_Violin_Piano_Flute_##2
+
+###18 Who is the author of Harry Potter?
+J.R.R. Tolkien_J.K. Rowling_Stephen King_Suzanne Collins_##1
+
+###19 What does “HTML” stand for?
+HyperText Markup Language_HighText Machine Language_HyperTool Markup Language_HyperText Main Language_##0
+
+###20 Which company created the iPhone?
+Google_Microsoft_Apple_Samsung_##2
